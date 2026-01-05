@@ -22,7 +22,10 @@ int main(void)
 
   while (1)
   {
+//feature-i2c-driver
+	  //feature-i2c-driver
 
+	  //feature-i2c-driver
   }
 
 }
