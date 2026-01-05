@@ -22,7 +22,11 @@ int main(void)
 
   while (1)
   {
-
+// uart communication
+	  // uart communication
+	  // uart communication
+	  // uart communication
+	  // uart communication
   }
 
 }
