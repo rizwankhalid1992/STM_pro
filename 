@@ -1,0 +1,36 @@
+[33mcommit 47278d9597653d120fa36f9c18ce51a2e9802ab7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 7dbc53e aa6afa7
+Author: rizwankhalid1992 <sp13bce023atd@gmail.com>
+Date:   Tue Jan 6 10:30:52 2026 +0500
+
+    merging the UART com branch
+
+[33mcommit aa6afa7e8a5cb2ceb80c375dffc8456969a1d586[m[33m ([m[1;31morigin/feature-i2c-driver[m[33m, [m[1;32mfeature-i2c-driver[m[33m)[m
+Author: rizwankhalid1992 <sp13bce023atd@gmail.com>
+Date:   Mon Jan 5 16:12:20 2026 +0500
+
+    After compilation
+
+[33mcommit 7dbc53e8630fc36bebef54524e4b2074256ed59d[m[33m ([m[1;31morigin/uart-feature[m[33m, [m[1;32muart-feature[m[33m)[m
+Author: rizwankhalid1992 <sp13bce023atd@gmail.com>
+Date:   Mon Jan 5 15:09:16 2026 +0500
+
+    The uart communication feature are added
+
+[33mcommit 6b4723965837d7c9785a32256d57b602fdcd966f[m
+Author: rizwankhalid1992 <sp13bce023atd@gmail.com>
+Date:   Mon Jan 5 15:04:22 2026 +0500
+
+    Added initial I2C driver for OLED display
+
+[33mcommit d4f1a8764e59419e9a4f589d0c9386b10e56b5e8[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: rizwankhalid1992 <sp13bce023atd@gmail.com>
+Date:   Mon Jan 5 14:56:37 2026 +0500
+
+    The version no 2
+
+[33mcommit e385d4257b6edcd6f7eee76823831a1f1988ee6a[m
+Author: rizwankhalid1992 <sp13bce023atd@gmail.com>
+Date:   Mon Jan 5 14:45:29 2026 +0500
+
+    Very first version
