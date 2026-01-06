@@ -34,6 +34,45 @@ int main(void)
 
 	  //feature-i2c-driver
 //>>>>>>> feature-i2c-driver
+
+	  //<<<<<<< HEAD
+	  // uart communication
+	  	  // uart communication
+	  	  // uart communication
+	  	  // uart communication
+	  	  // uart communication
+	  //=======
+	  //feature-i2c-driver
+	  	  //feature-i2c-driver
+
+	  	  //feature-i2c-driver
+	  //>>>>>>> feature-i2c-driver
+
+	  //<<<<<<< HEAD
+	  // uart communication
+	  	  // uart communication
+	  	  // uart communication
+	  	  // uart communication
+	  	  // uart communication
+	  //=======
+	  //feature-i2c-driver
+	  	  //feature-i2c-driver
+
+	  	  //feature-i2c-driver
+	  //>>>>>>> feature-i2c-driver
+
+	  //<<<<<<< HEAD
+	  // uart communication
+	  	  // uart communication
+	  	  // uart communication
+	  	  // uart communication
+	  	  // uart communication
+	  //=======
+	  //feature-i2c-driver
+	  	  //feature-i2c-driver
+
+	  	  //feature-i2c-driver
+	  //>>>>>>> feature-i2c-driver
   }
 
 }
