@@ -22,11 +22,18 @@ int main(void)
 
   while (1)
   {
+<<<<<<< HEAD
 // uart communication
 	  // uart communication
 	  // uart communication
 	  // uart communication
 	  // uart communication
+=======
+//feature-i2c-driver
+	  //feature-i2c-driver
+
+	  //feature-i2c-driver
+>>>>>>> feature-i2c-driver
   }
 
 }
